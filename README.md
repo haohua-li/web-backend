@@ -1,4 +1,12 @@
 # web-backend
+
+## 前端
+
+- [Frontend Developer Roadmap: Learn to become a modern frontend developer](https://roadmap.sh/frontend)
+- [尚硅谷直播课:Web前端学习路线图,前端开发_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DE411c7HJ?spm_id_from=333.337.search-card.all.click)
+
+## 后端
+
 - 后台开发 (前台开发, hahaha)
 - https://devconnected.com/category/linux-administration/
 - 后端知识点 https://mp.weixin.qq.com/s/0c16oG4I-16IfoPoFOeuBQ
